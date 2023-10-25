@@ -1,0 +1,50 @@
+.mel {
+    text-align: center;
+}
+
+.link {
+    color: rgb(235, 84, 255);
+    font-size: 20px;
+}
+
+.middle {
+    text-align: center;
+    color: #153ffa;
+    border-radius: 5%;
+    width: 700px;
+    height: 550px;
+    position: relative;
+    margin: auto;
+}
+
+.liste {
+    font-size: 20px;
+    text-align: center;
+    margin: 25px;
+}
+
+.img {
+    text-align: center;
+    margin: -250px;
+}
+
+.product {
+    border: 2px solid #153ffa;
+    width: 1700px;
+    height: 1050px;
+    position: relative;
+    margin: auto;
+    border-radius: 50px;
+}
+
+.aboutus {
+    border: 2px solid #153ffa;
+    width: 1500px;
+    height: 250px;
+    position: relative;
+    margin: auto;
+    border-radius: 30px;
+    color: blueviolet;
+    font-size: large;
+    text-align: center;
+}
